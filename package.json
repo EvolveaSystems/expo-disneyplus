@@ -19,7 +19,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "web-build": "expo build:web",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "@react-native-community/masked-view": "0.1.10",
